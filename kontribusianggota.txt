@@ -1,0 +1,13 @@
+tambahan project :
+- terdapat CRUD
+- Tambahan pada folder public untuk menambahkan gambar
+-middleware
+
+Kontribusi Anggota
+Tiara Febriyanti (1301194309) = Backend (Login,,CRUD,koneksi Database ,laravel)
+
+Habib Alfarabi (1301194170) - Front end ( Tampilan Template awal/master pada website + bagian tampilan info per wisata + tentang +masukkan tampilan web dalam view)
+
+Azrina Fazira Ansshory (1301194241)  - Front end ( membuat tampilan pada bagian Menu pariwisata, tampilan Login)
+
+Livia Naura Aqilla (1301194089) - Front end ( Membuat tampilan Register, Halaman awal/dashboard)
